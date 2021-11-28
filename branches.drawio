@@ -1,1 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-11-28T20:49:32.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.8.6" etag="LeGj76KD7FDZBol_M5fm" type="github"><diagram id="-plqvIRj36pOrSU1PA0s">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-28T20:54:19.284Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="6YPlpt5_vKCtfcPGKwCB" version="15.8.6" type="github">
+  <diagram id="-plqvIRj36pOrSU1PA0s" name="Page-1">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wtV7NsGsppegMmkt4UbD-1" value="Initial branch" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wtV7NsGsppegMmkt4UbD-2" value="Branch with 2 Angular components" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wtV7NsGsppegMmkt4UbD-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="wtV7NsGsppegMmkt4UbD-1" target="wtV7NsGsppegMmkt4UbD-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
