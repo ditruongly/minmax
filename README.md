@@ -24,4 +24,9 @@ git checkout 002
 git push --set-upstream origin 002
 ng generate component public-site
 ng generate component private-site
+ng generate guard AuthGuard
 ```
+###### Resource
+https://www.youtube.com/watch?v=996OiexHze0
+https://www.youtube.com/watch?v=PwyI3kXr_IM
+https://www.youtube.com/watch?v=KrOd5wIkqls
