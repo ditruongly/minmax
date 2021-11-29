@@ -22,4 +22,6 @@ git push --set-upstream origin 001
 ```
 git checkout 002
 git push --set-upstream origin 002
+ng generate component public-site
+ng generate component private-site
 ```
