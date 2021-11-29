@@ -17,13 +17,14 @@ ng serve --open
 git checkout -b 001
 git push --set-upstream origin 001
 ```
-###### Youtube Video: 002-000
+###### Youtube Video: 002-000, 002-001
 ###### Git Branch: 002
 ```
 git checkout 002
 git push --set-upstream origin 002
 ng generate component public-site
 ng generate component private-site
+npm install keycloak-angular keycloak-js
 ng generate guard AuthGuard
 ```
 ###### Resource
