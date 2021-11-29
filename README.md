@@ -31,3 +31,6 @@ ng generate guard AuthGuard
 https://www.youtube.com/watch?v=996OiexHze0
 https://www.youtube.com/watch?v=PwyI3kXr_IM
 https://www.youtube.com/watch?v=KrOd5wIkqls
+https://www.npmjs.com/package/keycloak-angular
+https://www.keycloak.org/getting-started/getting-started-docker
+https://wjw465150.gitbooks.io/keycloak-documentation/content/server_installation/topics/network/https.html
