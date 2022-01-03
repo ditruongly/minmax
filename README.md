@@ -27,10 +27,23 @@ ng generate component private-site
 npm install keycloak-angular keycloak-js
 ng generate guard AuthGuard
 ```
+###### Youtube Video: 003-000
+###### Git Branch: 003
+```
+ng generate service quarkus
+```
+###### Youtube Video: 004-000
+###### Git Branch: 004
+```
+ng generate service spring
+```
 ###### Resource
 https://www.youtube.com/watch?v=996OiexHze0
 https://www.youtube.com/watch?v=PwyI3kXr_IM
 https://www.youtube.com/watch?v=KrOd5wIkqls
+https://www.youtube.com/watch?v=_rMAnZIcRiU
+https://www.youtube.com/watch?v=G46fjVzQ7BQ
 https://www.npmjs.com/package/keycloak-angular
 https://www.keycloak.org/getting-started/getting-started-docker
 https://wjw465150.gitbooks.io/keycloak-documentation/content/server_installation/topics/network/https.html
+https://howtodoinjava.com/spring-boot2/spring-cors-configuration/
